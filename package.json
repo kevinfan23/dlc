@@ -1,0 +1,19 @@
+{
+  "name": "dlc.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinfan23/kevinfan23.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinfan23/kevinfan23.github.io/issues"
+  },
+  "homepage": "https://github.com/kevinfan23/kevinfan23.github.io#readme"
+}

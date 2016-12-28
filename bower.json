@@ -1,0 +1,17 @@
+{
+  "name": "dlc.io",
+  "homepage": "http://lachariteconstructioninc.com",
+  "authors": [
+    "kevinfan23 <kevinfan23@ucla.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

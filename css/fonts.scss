@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fontsicomoon.eot?ndcih3');
+    src:    url('../fonts/icomoon.eot?ndcih3#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?ndcih3') format('truetype'),
+        url('../fonts/icomoon.woff?ndcih3') format('woff'),
+        url('../fonts/icomoon.svg?ndcih3#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Futura Book";
+    src: url('../fonts/Futura-Book.ttf'),
+    url('../fonts/Futura-Book.eot'); /* IE */
+}
+
+@font-face{
+    font-family: "Maison Neue";
+    src: url('../fonts/maison-neue-bold.ttf') format('truetype'),
+        url('../fonts/maison-neue-bold.woff') format('woff'),
+		url('../fonts/maison-neue-bold.svg') format('svg'),
+    url('../fonts/maison-neue-bold.eot'); /* IE */
+}
+
+[class^="fa-"], [class*=" fa-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-codepen:before {
+    content: "\e900";
+}
+.fa-dribbble:before {
+    content: "\e901";
+}
+.fa-linkedin:before {
+    content: "\e902";
+}
+.fa-envelope-o:before {
+    content: "\e903";
+}
+.fa-github:before {
+    content: "\e904";
+}
+.fa-medium:before {
+    content: "\e905";
+}
